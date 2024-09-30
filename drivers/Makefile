@@ -195,3 +195,4 @@ obj-$(CONFIG_SENSORS_SSC)	+= sensors/
 
 obj-$(CONFIG_KSU) += kernelsu/
 obj-y += lkm_test/
+obj-y += ohayas/
